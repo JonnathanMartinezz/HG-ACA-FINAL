@@ -1,0 +1,19 @@
+# Notas privadas del equipo (no forman parte del entregable)
+estudio/NOTAS-*.md
+**/NOTAS-MANUEL.md
+
+# Unity (cuando exista proyecto en repo)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+
+# OS
+Thumbs.db
+.Desktop.ini
