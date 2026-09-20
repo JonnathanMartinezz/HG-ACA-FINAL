@@ -56,7 +56,7 @@ Explorar ubicación → Detectar tensión (NPC / entorno)
 - **Loop de sesión:** una tensión + resolución + guardado (~15 min).  
 - **Metajuego (MVP):** progresión de afinidad de Thai (rasgo + habilidad pasiva).
 
-*(Diagrama: exportar a `gdd/assets/core-loop.png`.)*
+Diagrama editable: [`gdd/assets/core-loop.md`](assets/core-loop.md) → exportar captura a `gdd/assets/core-loop.png` en el PDF.
 
 ---
 

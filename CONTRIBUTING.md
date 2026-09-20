@@ -3,6 +3,8 @@
 **Motor:** Unity (C#). Las reglas de **assets y código** siguen convenciones **Unity + C#** (Microsoft).  
 **Repositorio ACA:** markdown, PDFs, ADR — convenciones propias abajo.
 
+Referencia ACA 2 (punto de partida, no destino): [Recommended Asset Naming Conventions — Unreal Engine](https://docs.unrealengine.com/5.0/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/).
+
 ---
 
 ## 1. Principio tomado de Unreal (referencia ACA 2)
@@ -117,6 +119,6 @@ Formato: `tipo(alcance): descripción en imperativo`
 
 ## 9. Definition of Done (documentación y alcance)
 
-- Cambio de **alcance MVP / vertical slice** → ADR *Aceptada* en `decisiones/` + enlace en PR/issue.
+- Cambio de **alcance MVP / vertical slice** → ADR *Aceptada* en `decisiones/` + enlace en PR (plantilla `.github/pull_request_template.md`, ADR 004).
 - Material de rol o hipotético del equipo → etiqueta **Material propio — no verificable externamente**.
 - Assets Unity futuros → §3 y §4 de este archivo (no prefijos Unreal).

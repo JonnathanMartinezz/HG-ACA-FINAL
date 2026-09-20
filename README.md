@@ -14,15 +14,17 @@
 
 | Ruta | Contenido |
 |------|-----------|
-| [`diagnostico/patron-de-fallo.md`](diagnostico/patron-de-fallo.md) | Patrón de fallo elegido (Anexo A ACA 2) y evidencias |
-| [`decisiones/`](decisiones/) | Registros de decisión (ADR)|
-| [`gdd/GDD.md`](gdd/GDD.md) | Borrador del Game Design Document (TODO: exportar a PDF en `gdd/GDD.pdf`) |
-| [`gdd/assets/`](gdd/assets/) | Core loop, moodboard, diagramas |
-| [`estudio/`](estudio/) | Carta operativa, cronograma, presupuesto, organigrama |
+| [`diagnostico/patron-de-fallo.md`](diagnostico/patron-de-fallo.md) | Patrón **6** y evidencias (interna + Telltale/Favis externa) |
+| [`decisiones/`](decisiones/) | ADR 001–005 (≥2 con desacuerdo registrado) |
+| [`gdd/GDD.md`](gdd/GDD.md) | GDD → exportar [`gdd/GDD.pdf`](gdd/GDD.pdf) |
+| [`gdd/assets/`](gdd/assets/) | Core loop, brief moodboard |
+| [`estudio/carta-operativa.md`](estudio/carta-operativa.md) | Carta → exportar [`estudio/carta-operativa.pdf`](estudio/carta-operativa.pdf) |
+| [`estudio/cronograma.md`](estudio/cronograma.md) · [`presupuesto.md`](estudio/presupuesto.md) | Planificación coherente con GDD |
+| [`estudio/guion-video.md`](estudio/guion-video.md) | Segmentos A (inversionista) y B (equipo) |
+| [`docs/tablero-github.md`](docs/tablero-github.md) | Issues / Project board |
 
 ## Declaración de uso de IA generativa
 
-- **Herramientas:** Cursor (asistente documentación).
-- **Uso:** Revisión de redacción y coherencia entre secciones.
-- **Decisiones del equipo:** Elección del patrón 6, hechos de evidencia interna del proceso del curso, alcance visión / vertical slice / MVP, mecanismo de «El antídoto», cifras de presupuesto y cronograma, y contenido creativo de *Umbral* (incluido el personaje Thai).
-- **Sustentación oral:** El equipo puede explicar y defender cada ADR y el antídoto en Sesión 8.
+- **Herramientas:** Cursor (asistente de documentación).
+- **Uso:** Estructura del repo, borradores ADR/carta/GDD, revisión de coherencia.
+- **Decisiones del equipo:** Patrón 6, evidencias internas ACA 1, alcance, antídoto, cifras, creative (*Umbral*, Thai), sustentación Sesión 8.
