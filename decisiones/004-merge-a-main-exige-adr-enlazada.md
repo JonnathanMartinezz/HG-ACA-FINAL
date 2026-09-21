@@ -39,3 +39,8 @@ Patrón **6** (ver `diagnostico/patron-de-fallo.md`): en ACA 1 las decisiones de
 **Manuel:** teme burocracia en meses 10–18 (pulido). Propone whitelist de rutas solo hasta MVP.  
 **Jonnathan:** insiste en mantener regla hasta MVP mes 9 mínimo.  
 **Acuerdo:** Regla estricta hasta tag `mvp-lock`; después ADR 003 condiciona relajación tras playtest.
+
+## Revisión del equipo
+
+**Manuel Domínguez:** revisada y aceptada. La regla de exigir una ADR
+aceptada para cambios de alcance representa el mecanismo acordado.
