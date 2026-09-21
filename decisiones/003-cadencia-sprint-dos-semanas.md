@@ -39,3 +39,8 @@ Taller Umbral opera con equipo ficticio de **6 personas** a **18 meses** (MVP me
 **Manuel:** prefiere Kanban (opción 2) por variabilidad narrativa.  
 **Jonnathan:** sostiene sprint 2 semanas para forzar demo y ADR en planning.  
 **Revisión:** Tras vertical slice (semana 22), si velocity estable ±10% durante 3 sprints, se puede ADR para Kanban solo en fase de pulido (meses 10–18).
+
+## Revisión del equipo
+
+**Manuel Domínguez:** revisada y aceptada. La decisión sobre sprints de dos
+semanas representa el acuerdo actual del equipo.
