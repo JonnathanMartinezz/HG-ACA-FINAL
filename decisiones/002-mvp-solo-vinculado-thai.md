@@ -41,3 +41,8 @@ El vertical slice debe probar el pilar 1 (*cada dilema altera el estado del mund
 **Manuel:** prefiere opción 2 para mostrar “loop de captura” en primer tráiler.  
 **Jonnathan:** sostiene opción 1 por pilar 3 y cronograma.  
 **Condición de revisión:** Si en playtest interno (vertical slice, semana 22) ≥70% de jugadores no entienden el sistema de vínculos con solo Thai, se reabre ADR para añadir segundo vinculado acotado (solo habilidad, sin nueva biomecánica de mapa).
+
+## Revisión del equipo
+
+**Manuel Domínguez:** revisada y aceptada. La decisión representa el acuerdo
+actual del equipo para el alcance del MVP.
