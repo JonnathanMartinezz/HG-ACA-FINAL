@@ -38,3 +38,8 @@
 
 **Manuel:** vota opción 2 para pitch al inversionista (segmento A video).  
 **Jonnathan:** acepta **tráiler con cámara dramática pre-render** solo para marketing, pero **gameplay** permanece 2,5D — debe etiquetarse en materiales para no contradecir segmento B (misma verdad, distinto encuadre).
+
+## Revisión del equipo
+
+**Manuel Domínguez:** revisada y aceptada. La decisión de utilizar cámara
+2,5D ortográfica en gameplay representa el acuerdo actual del equipo.
